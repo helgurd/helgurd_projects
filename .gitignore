@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
-test.py
-venv/
+.test.py
+.venv/
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
