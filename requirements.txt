@@ -9,7 +9,7 @@ chardet==3.0.4
 click==7.1.1
 colorama==0.4.3
 curtsies==0.3.1
-Django==3.0.2
+Django==3.0.12
 greenlet==0.4.15
 idna==2.9
 jedi==0.15.2
