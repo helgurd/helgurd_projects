@@ -14,7 +14,7 @@ greenlet==0.4.15
 idna==2.9
 jedi==0.15.2
 more-itertools==8.2.0
-numpy==1.18.1
+numpy==1.22.0
 packaging==20.3
 pandas==0.25.3
 parso==0.6.2
